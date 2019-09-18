@@ -1,0 +1,23 @@
+{
+  "name": "sam0786/pdf",
+  "description": "FPDF para yii2",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "fpdf",
+    "pdf"
+  ],
+  "homepage": "https://github.com/sam0786/pdf",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "samuel flores"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "sam0786\\pdf\\": ""
+    }
+  }
+}
