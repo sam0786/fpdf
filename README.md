@@ -6,6 +6,7 @@ Install
 composer  require --ignore-platform-reqs --prefer-dist sam0786/fpdf:dev-master
 
 example 
+
 use sam0786\fpdf\FPDF;
 
     public function actionTestpdf(){
