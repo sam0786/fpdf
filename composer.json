@@ -1,5 +1,5 @@
 {
-  "name": "sam0786/pdf",
+  "name": "sam0786/fpdf",
   "description": "FPDF para yii2",
   "type": "yii2-extension",
   "keywords": [
@@ -8,7 +8,7 @@
     "fpdf",
     "pdf"
   ],
-  "homepage": "https://github.com/sam0786/pdf",
+  "homepage": "https://github.com/sam0786/fpdf",
   "license": "MIT",
   "authors": [
     {
@@ -17,7 +17,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "sam0786\\pdf\\": ""
+      "sam0786\\fpdf\\": ""
     }
   }
 }
