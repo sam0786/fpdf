@@ -1,5 +1,8 @@
 # fpdf
 Yii2-FPDF, extensión fpdf para yii2, pdf
+add funcion
+WriteHTML
+Row multicell
 
 Install
 
